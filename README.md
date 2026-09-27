@@ -1,8 +1,8 @@
-Zalando Europe Product Performance Analysis
+# Zalando Europe Product Performance Analysis
 
 A Power BI analysis of product performance, pricing, demand, inventory, seller/fulfilment performance, returns and customer experience across Zalando Europe.
 
-🎯 Research Questions
+## 🎯 Research Questions
 
 - How are the products performing?
 - What factors are influencing performance?
@@ -11,7 +11,7 @@ A Power BI analysis of product performance, pricing, demand, inventory, seller/f
 - How do returns and delivery affect customer experience?
 - How can product performance be improved?
 
-📊 Key Findings
+## 📊 Key Findings
 
 - €1.17M Net Sales
 - €487.62K Gross Profit
@@ -23,36 +23,36 @@ A Power BI analysis of product performance, pricing, demand, inventory, seller/f
 - Women, Footwear and Men are strong-performing categories
 - Declining-demand products hold the highest inventory, indicating a demand–inventory mismatch
 
-🛠️ Tools
+### 🛠️ Tools
 
 - Power BI
 - Excel
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
-Executive Overview
+### Executive Overview
 
 "Executive Overview" (images/executive_overview.png)
 
-Pricing & Discounts
+### Pricing & Discounts
 
 "Pricing & Discounts" (images/pricing_discounts.png)
 
-Demand & Inventory
+### Demand & Inventory
 
 "Demand & Inventory" (images/demand_inventory.png)
 
-Returns & Delivery
+### Returns & Delivery
 
 "Returns & Delivery" (images/returns_delivery.png)
 
-📁 Project Files
+## 📁 Project Files
 
 - Power BI Dashboard
 - Project Presentation
 - Dataset / Supporting Files
 
-  📌 Project Focus
+ ## 📌 Project Focus
 
 This project evaluates product performance across key commercial and operational dimensions, including sales, profitability, pricing, demand, inventory, seller performance, fulfilment, returns, and delivery.
 
