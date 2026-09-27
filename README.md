@@ -23,7 +23,8 @@ A Power BI analysis of product performance, pricing, demand, inventory, seller/f
 - Women, Footwear and Men are strong-performing categories
 - Declining-demand products hold the highest inventory, indicating a demand–inventory mismatch
 
-- ## 📌 Recommendations
+
+ ## 📌 Recommendations
 
 Based on the analysis, the following actions are recommended to improve product performance, profitability, inventory efficiency, and customer experience:
 
@@ -40,11 +41,6 @@ Based on the analysis, the following actions are recommended to improve product 
 * **Review Older Products:** Monitor older products with declining demand and consider targeted promotions, assortment adjustments, or stock reduction to prevent prolonged inventory holding.
 
 * **Improve Market Performance:** Investigate lower-performing markets and identify opportunities to improve sales, conversion, profitability, and product availability.
-
-### 🎯 Expected Impact
-
-These recommendations are intended to support better inventory allocation, healthier profit margins, improved product availability, reduced returns, and a stronger overall customer experience.
-
 
 ## 🛠️ Tools
 
