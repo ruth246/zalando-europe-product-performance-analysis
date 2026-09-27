@@ -48,7 +48,7 @@ A Power BI analysis of product performance, pricing, demand, inventory, seller/f
 
 ## 📁 Project Files
 
-* [Project Presentation](./Zalando_Europe_Product_Performance_Analysis.pptx)
+* - [Project Presentation](./Zalando_Europe_Product_Performance_Analysis.pptx)
 * Dashboard Screenshots
 
 ## 📌 Project Focus
