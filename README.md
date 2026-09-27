@@ -30,6 +30,10 @@ A Power BI analysis of product performance, pricing, demand, inventory, seller/f
 
 ## 📸 Dashboard Preview
 
+### Demand & Inventory
+
+![Demand & Inventory](images/demand_inventory.png)
+
 ### Executive Overview
 
 ![Executive Overview](images/executive_overview.png)
@@ -37,10 +41,6 @@ A Power BI analysis of product performance, pricing, demand, inventory, seller/f
 ### Pricing & Discounts
 
 ![Pricing & Discounts](images/pricing_discounts.png)
-
-### Demand & Inventory
-
-![Demand & Inventory](images/demand_inventory.png)
 
 ### Returns & Delivery
 
