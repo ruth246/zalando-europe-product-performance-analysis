@@ -46,6 +46,13 @@ A Power BI analysis of product performance, pricing, demand, inventory, seller/f
 
 ![Returns & Delivery](images/returns_delivery.png)
 
+## 🎥 Power BI Dashboard Walkthrough
+
+Watch the 1-minute walkthrough of the **Zalando Europe Product Performance & Assortment Optimization Analysis** dashboard.
+
+[▶️ Watch the Power BI Dashboard Walkthrough](./Zalando_Product_Performance_Walkthrough.mp4)
+
+
 ## 📁 Project Files
 
 - Power BI Dashboard
