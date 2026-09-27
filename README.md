@@ -23,7 +23,7 @@ A Power BI analysis of product performance, pricing, demand, inventory, seller/f
 - Women, Footwear and Men are strong-performing categories
 - Declining-demand products hold the highest inventory, indicating a demand–inventory mismatch
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 - Power BI
 - Excel
@@ -48,17 +48,14 @@ A Power BI analysis of product performance, pricing, demand, inventory, seller/f
 
 ## 📁 Project Files
 
-- [Project Presentation](./Zalando_Europe_Product_Performance_Analysis.pptx)
-- Dashboard Screenshots
-## 📁 Project Files
+* [Project Presentation](./Zalando_Europe_Product_Performance_Analysis.pptx)
+* Dashboard Screenshots
 
-- Power BI Dashboard
-- Project Presentation
-- Dataset / Supporting Files
-
- ## 📌 Project Focus
+## 📌 Project Focus
 
 This project evaluates product performance across key commercial and operational dimensions, including sales, profitability, pricing, demand, inventory, seller performance, fulfilment, returns, and delivery.
+
+The analysis is designed to identify performance patterns, operational risks, and opportunities for improving product and customer outcomes.
 
 The analysis is designed to identify performance patterns, operational risks, and opportunities for improving product and customer outcomes.
 
